@@ -10,3 +10,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with love by Bruno Marcenaro
+
+### ©️2019 Run Buddy, Inc 
