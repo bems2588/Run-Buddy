@@ -8,7 +8,13 @@ A Website that offers fitness training services.
 ## Website 
 https://lernantino.github.io/run-buddy/
 
-## Contribution
-Made with love by Bruno Marcenaro
+## Contributors
+
+* Bruno Marcenaro
+
+## Personal Info
+
+* Visit my Github page at  https://github.com/bems2588
+* Contact me at bems2588@gmail.com
 
 ### ©️2019 Run Buddy, Inc 
